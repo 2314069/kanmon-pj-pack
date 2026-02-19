@@ -20,3 +20,9 @@ Excel・PowerPointテンプレートの格納場所です。
 
 実際のテンプレートファイルは[BOX](https://app.box.com/folder/353479667744)で管理しています。
 {% endhint %}
+
+---
+
+## プロジェクトフォルダ
+
+期ごとのプロジェクトフォルダは[BOX](https://app.box.com/folder/353479665344)で管理しています。
